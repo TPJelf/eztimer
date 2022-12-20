@@ -1,0 +1,15 @@
+body {
+  /*font-family: 'Play';*/
+  min-height: 100%;
+  user-select: none;
+  -webkit-touch-callout: none;
+  background: #1b1b1b;
+}
+
+main {
+  color: white;
+}
+
+.basic-nav {
+  right:0;
+}

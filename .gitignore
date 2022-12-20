@@ -1,0 +1,5 @@
+secrets.py
+__pycache__/
+core/migrations/
+db.sqlite3
+media/
